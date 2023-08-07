@@ -1,6 +1,6 @@
 # Ultimate Marketplace Web Scraper
 
--- shout out to Foster Singletary
+--
 
 ## Description
 
@@ -34,3 +34,5 @@ It is for local use and will send you a notification when new search appears.
 - pip3 install requests
 - pip3 install beautifulsoup4
 - pip3 install pandas
+
+shout out to Foster Singletary for the idea
