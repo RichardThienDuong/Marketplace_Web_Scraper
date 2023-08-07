@@ -1,6 +1,6 @@
-# Ultimate Marketplace Web Scraper , influenced by Foster Singletary
+# Ultimate Marketplace Web Scraper
 
---
+-- shout out to Foster Singletary
 
 ## Description
 
